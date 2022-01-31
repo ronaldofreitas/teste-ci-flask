@@ -13,7 +13,7 @@ def create_tech():
     nome = request.json.get('nome')
     descricao = request.json.get('descricao')
     create_tech_db(nome, descricao)
-    return jsonify('ok'), 201
+    return jsonify('ok'), 200
 
 if __name__ == '__main__':
     web_app.run()
