@@ -1,0 +1,21 @@
+$ py.test
+
+$ coverage run --source=app -m py.test
+
+coverage report -m
+Name     Stmts   Miss  Cover   Missing
+--------------------------------------
+app.py       7      1    86%   10
+--------------------------------------
+TOTAL        7      1    86%
+
+
+
+$ coverage report -m
+Name     Stmts   Miss  Cover   Missing
+--------------------------------------
+app.py      15      1    93%   19
+--------------------------------------
+TOTAL       15      1    93%
+
+
