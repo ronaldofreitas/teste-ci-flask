@@ -1,10 +1,6 @@
 # Introduction to tests
 
-Application developed in a webinar in the Youtube to *Digital Innovation One®* (https://digitalinnovation.one/). 
-In this webinar was presents a introduction to tests in Flask applications.
-
-**Webinar:** https://www.youtube.com/watch?v=P0aTDyw9N4g&t
-
+Vou documentar melhor esse exemplo. I will, soon
 
 ## Install Requirements
 
